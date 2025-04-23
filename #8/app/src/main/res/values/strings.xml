@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageLoaderApp</string>
+    <string name="enter_image_url">Enter Image URL</string>
+    <string name="load_image">Load Image</string>
+    <string name="status">Status</string>
+    <string name="reset">Reset</string>
+</resources>
